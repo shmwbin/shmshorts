@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "TeenMind Shorts App",
+  "short_name": "TeenMind",
+  "description": "শেখার ছোট ভিডিও ও ছবি",
+  "lang": "bn",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090d",
+  "theme_color": "#08090d",
+  "icons": [
+    { "src": "https://res.cloudinary.com/ewu5hckc/image/upload/v1790583115/shmshort.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "https://res.cloudinary.com/ewu5hckc/image/upload/v1790583115/shmshort.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
